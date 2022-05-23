@@ -1,0 +1,6 @@
+{
+	"welcomeMessage": "Bienvenue, %{name}.",
+	"notification": "Vous avez %{smart_count} message. |||| Vous avez %{smart_count} messages.",
+	"meet": "Rencontrez et collaborez en utilisant %{a}l'expérience repensée%{a_end}",
+	"test": "en frances"
+}

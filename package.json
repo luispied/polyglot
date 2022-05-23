@@ -1,0 +1,23 @@
+{
+	"name": "polyglot",
+	"private": true,
+	"version": "0.0.0",
+	"scripts": {
+		"dev": "vite",
+		"build": "tsc && vite build",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"@types/react": "^16.9.55",
+		"@types/react-dom": "^16.9.9",
+		"@vitejs/plugin-react": "^1.3.0",
+		"node-polyglot": "^2.4.2",
+		"react": "^16.14.0",
+		"react-dom": "^16.14.0",
+		"react-polyglot": "^0.7.2",
+		"typescript": "^4.2.2"
+	},
+	"devDependencies": {
+		"vite": "^2.9.9"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"welcomeMessage": "Bienvenido, %{name}.",
+	"notification": "Usted tiene %{smart_count} mensaje. |||| Usted tiene %{smart_count} mensajes.",
+	"meet": "Reunase y colabore usando la %{a}experiencia redieseñada%{a_end}",
+	"test": "Probando con el hook"
+}
